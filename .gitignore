@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 .DS_Store
 models/hyperparametertuning_logs.txt
+models/hypopt_vs_customtuning
+models/Annotations.ipynb
