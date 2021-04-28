@@ -1,6 +1,0 @@
-TESTING HYPOPT AGAINST CUSTOM HYPERPARAMETER TUNING:
-Test1:
-Parameters: c_range= [30, 1000000, 0.0000001]
-Result: -hypopt gives Accuracy: 0.9061804008908686 with C = 30, loss = squared_hinge
-	-Custom validation gives accuracy: 0.9962416481069042 with C = 30, loss = squared_hinge;
-	-Custom validation gives accuracy: 0.9961024498886414 with C = 30, loss = hinge;

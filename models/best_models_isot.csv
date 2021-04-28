@@ -1,0 +1,7 @@
+Model,Hyperparameter tuned,Validation Accuracy,Test Accuracy
+MultinomialNB,No,0.9353,0.937
+PassiveAggressiveClassifier,No,0.9962,0.9939
+PassiveAggressiveClassifier,Yes,0.9962,0.9949
+LogisticRegression,No,0.9845,0.9859
+PassiveAggressiveClassifier,Yes,0.9962,0.9949
+MultinomialNB,No,0.9353,0.9511
