@@ -5,3 +5,10 @@ PassiveAggressiveClassifier,Yes,0.9962,0.9949
 LogisticRegression,No,0.9845,0.9859
 PassiveAggressiveClassifier,Yes,0.9962,0.9949
 MultinomialNB,No,0.9353,0.9511
+LogisticRegression,No,0.9845,0.9859
+LogisticRegression,No,0.9845,0.9859
+LogisticRegression,Yes,0.9961,0.9944
+PassiveAggressiveClassifier,No,0.9949,0.9939
+MultinomialNB,No,0.9353,0.9511
+LogisticRegression,No,0.9944,0.9943
+LogisticRegression,No,0.9845,0.9859
